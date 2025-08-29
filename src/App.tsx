@@ -409,7 +409,7 @@ const App = () => {
                 </div>
                 <div className="text-center">
                   <p className="text-5xl md:text-6xl font-black text-green-600 mb-2">
-                    R$ 27,97
+                    R$ 19,90
                   </p>
                   <p className="text-gray-600 text-lg">
                     Pagamento único • Acesso vitalício
